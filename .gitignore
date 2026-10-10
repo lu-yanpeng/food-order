@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+.directory
+
+# 编辑器 / IDE
+.idea/
+*.swp
+*.swo
+.history/
+.vscode/*
+
+# 密钥与环境变量
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+
+# 日志与临时文件
+*.log
+logs/
+tmp/
+.cache/
+*.bak
+*.orig
+*.tmp
